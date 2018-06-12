@@ -21,11 +21,12 @@ body{
 .overlayImage{
 	background-color:transparent;
 	background-image: url('assets/logo_silhouette.png');
-	background-image: url(assets/logo_silhouette.png);
     background-size: cover;
     background-repeat: no-repeat;
 	background-position: center;
 	z-index: 0;
+	width: 100%;
+    padding-top: 75%;
 }
 
 .frameLeft{
